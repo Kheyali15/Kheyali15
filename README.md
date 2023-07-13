@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/475eb095746151.5e9ecde695f7a.gif)
 
 <h1 align="center">Hi 👋, I'm Kheyali Dhara</h1>
 <h3 align="center">I'm currently in my final year of B.Tech in Computer Science.</h3>
