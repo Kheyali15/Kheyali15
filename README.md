@@ -1,13 +1,15 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/475eb095746151.5e9ecde695f7a.gif)
 
 <h1 align="center">Hi 👋, I'm Kheyali Dhara</h1>
-<h3 align="center">I'm currently in my final year of B.Tech in Computer Science.</h3>
+<h3 align="center">Tech exploration brings me joy</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kheyali15&label=Profile%20views&color=0e75b6&style=flat" alt="kheyali15" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kheyalidhara15" target="blank"><img src="https://img.shields.io/twitter/follow/kheyalidhara15?logo=twitter&style=for-the-badge" alt="kheyalidhara15" /></a> </p>
+
+- 📝 I'm currently in my final year of B.Tech in Computer Science
 
 - 🔭 I’m currently working on **React based projects**
 
