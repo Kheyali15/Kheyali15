@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif)]
 
 <h1 align="center">Hi 👋, I'm Kheyali Dhara</h1>
 <h3 align="center">I'm currently in my final year of B.Tech in Computer Science.</h3>
